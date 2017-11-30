@@ -1,5 +1,11 @@
 # Recognitions
-- award: Outstanding Achievement
-  organization: Springfield Nuclear Power Plant
-  year: 2010
-  summary: Awarded for stopping a nuclear meltdown, even though I also started it.
+- award: English
+  organization: Full professional proficiency.
+  #year: 2010
+  # summary: Awarded for stopping a nuclear meltdown, even though I also started it.
+
+- award: Spanish
+  organization: Native proficiency.
+
+- award: German
+  organization: Elementary proficiency.
