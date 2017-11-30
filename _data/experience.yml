@@ -3,17 +3,18 @@
 - company: Nearshore Delivery Solutions
   position: Software Developer
   duration: Mar, 2017 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>Ate lots of donuts</li><li>Fell asleep rarely</li><li>Left promptly at end of day (sometimes earlier)</li></ul>
+  summary: • Using IBM Bluemix services as Watson, Conversation, Tone Analizer, Visual Recognition, with Cloud Foundry, NodeJS, Python and Google API.ai to create cognitive solutions that make use of neuronal networks which allows the computer to learn (machine learning) and bring more intelligent decisions to daily business processes. <br /> • Using Python & Virtualenv to collect information from the web (Web Crawling) while mantaining a control of my developer environment dependencies versions. <br/ > • Implemented Continuous Integration with Gitlab CI to run tests in the projects of the company. 
+  # extra: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>Ate lots of donuts</li><li>Fell asleep rarely</li><li>Left promptly at end of day (sometimes earlier)</li></ul>
 
 # Windmill Crank Operator
 - company: Ment
   position: Frontend Developer
   duration:  Aug, 2015 &mdash; Mar, 2017
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+  summary: • Worked in a team devoted to create solutions for businesses making use of technologies to achieve responsive design, more interactive, optimized and well-crafted apps & websites. Ruby on Rails, Javascript, CSS and HTML usage was part of my work.
 
 
 # Front Desk Attendant
 - company: Logyt
   position: Full Stack Developer
   duration:   May, 2016 &mdash; Aug, 2016
-  summary: Boy, when Marge first told me she was going to the Police Academy, I thought it would be fun and exciting, you know, like the movie... Spaceballs. But instead, it's been painful and disturbing, like the movie Police Academy.
+  summary: • Responsible of the Backend (Python, Django, Databases), Frontend development (Javascript, CSS, HTML) and online hosting (Google Cloud Servers using Google App Engine) of different platforms which design delivery routes for trucks across Mexico. <br /> • Implemented the Security and the Authentication for different kind of users/jobs inside the platform to make it only accessible for them. <br /> • Successfully developed, executed and managed data processes which interact with Google Cloud Storage. 
