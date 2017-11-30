@@ -2,15 +2,15 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # donutfinder.io
-- project: donutfinder.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: Ionic App for the Canadian Chamber at Mexico
+  role: Ionic Developer
+  duration: Sep, 2017 &mdash; Dec, 2017
   # url: "#"
-  description: Donut Locator is an open source node/ember app that lets users find donuts within a defined radius from their home.
+  description: Used Ionic and Cordova to create an app for the Appstore and Playstore that lets you be updated of the Canadian Chamber Events, Attendants at Mexico.
 
 #Springfield Donut Eater's User Group
 - project: Springfield Donut Eater's User Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: DEUG is a local monthly meetup in Springfield where we share all the latest tips and tricks for dat donut lifestyle. I organize the group, and typically eat most of the donuts.
+  role: Java Developer
+  duration: Jan, 2015 &mdash; May, 2015
+  url: "https://play.google.com/store/apps/details?id=com.castilla.eduardo.lightbulbs&hl=en"
+  description: • Creator of the idea and mechanics of the game. In charge of coding the menu and levels of the game (Worked w/ another programmer, two graphic designers & one music engineer).
