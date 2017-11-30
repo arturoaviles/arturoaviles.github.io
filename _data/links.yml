@@ -1,5 +1,7 @@
 # links
-- url: "#"
-  description: Springfield Poker Club
-- url: "#"
-  description: Springfield Donut Eater's User Group
+- url: "https://github.com/arturoaviles/djangosecurelogin/"
+  description: Django Auth Login
+- url: "https://arturoaviles.github.io/grep_javascript/"
+  description: Javascript GREP Search
+- url: "https://github.com/arturoaviles/openWithChrome"
+  description: Open Chrome from UNIX/Terminal
