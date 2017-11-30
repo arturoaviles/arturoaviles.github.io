@@ -3,7 +3,7 @@
 - company: Nearshore Delivery Solutions
   position: Software Developer
   duration: Mar, 2017 &mdash; Present
-  summary: • Using IBM Bluemix services as Watson, Conversation, Tone Analizer, Visual Recognition, with Cloud Foundry, NodeJS, Python and Google API.ai to create cognitive solutions that make use of neuronal networks which allows the computer to learn (machine learning) and bring more intelligent decisions to daily business processes. <br /> • Using Python & Virtualenv to collect information from the web (Web Crawling) while mantaining a control of my developer environment dependencies versions. <br/ > • Implemented Continuous Integration with Gitlab CI to run tests in the projects of the company. 
+  summary: <ul class="resume-item-list"><li>Using IBM Bluemix services as Watson, Conversation, Tone Analizer, Visual Recognition, with Cloud Foundry, NodeJS, Python and Google API.ai to create cognitive solutions that make use of neuronal networks which allows the computer to learn (machine learning) and bring more intelligent decisions to daily business processes. </li><li>Using Python & Virtualenv to collect information from the web (Web Crawling) while mantaining a control of my developer environment dependencies versions. </li><li>Implemented Continuous Integration with Gitlab CI to run tests in the projects of the company.</li> 
   # extra: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>Ate lots of donuts</li><li>Fell asleep rarely</li><li>Left promptly at end of day (sometimes earlier)</li></ul>
 
 # Windmill Crank Operator
