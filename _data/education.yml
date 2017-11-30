@@ -1,6 +1,10 @@
 # Degree
-- degree: Associates Degree, Business Management
-  uni: Springfield College
-  year: 1984 &mdash; 1986
-  awards: Quickest to fall asleep
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: B.S. Computer Science 
+  uni: Instituto Tecnlógico y de Estudios Superiores de Monterrey
+  year: Jun, 2013 &mdash; Dec, 2017
+  # awards: Quickest to fall asleep
+  # summary: If you had any meaningful roles at college, feel free to write about them here
+
+- degree: International Semester 
+  uni: University of Ontario Institute of Technology
+  year: Sep, 2016 &mdash; Dec, 2016
